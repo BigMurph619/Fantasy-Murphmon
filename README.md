@@ -41,3 +41,5 @@ This is a friendly community competition that takes the concept of fantasy footb
 [Murphmon Rules](https://takejoshyy.github.io/TheMurphVerse/#core-games-rules)
 
 [Discord](https://discord.gg/z2SqRbNr)
+
+[BeMidgeGaming's Runner Ranking List](https://github.com/BigMurph619/Fantasy-Murphmon/blob/main/MurphmodeRunnerRankingsV1.1.xlsx)
