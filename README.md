@@ -39,4 +39,5 @@ This is a friendly community competition that takes the concept of fantasy footb
 
 ## LINKS
 [Murphmon Rules](https://takejoshyy.github.io/TheMurphVerse/#core-games-rules)
+
 [Discord](https://discord.gg/z2SqRbNr)
