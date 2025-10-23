@@ -16,7 +16,7 @@ This is a friendly community competition that takes the concept of fantasy footb
 |All 6 of your Pokemon can earn you points throughout the month (no byes, no trades, no free agents)|
 |There will be an individual winner and a squad winner. Prizes TBD|
 
-|SCORING BREAKDOWN|
+|SCORING|POINTS|
 |-|-|
 |Lab Choice| 1 |
 |Lab Win| 2 |
