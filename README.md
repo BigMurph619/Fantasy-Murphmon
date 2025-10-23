@@ -31,6 +31,6 @@ This is a friendly community competition that takes the concept of fantasy footb
 |Safari Pivot| 5 |
 |Shiny| 5 |
 
-**Progress - 0.1 points per trainer defeated in seed
-**BB Memoriam - BB faints in service of Brock win
-**Safari Pivot - "Locked in" after leveling twice
+> Progress - 0.1 points per trainer defeated in seed
+> BB Memoriam - BB faints in service of Brock win
+> Safari Pivot - "Locked in" after leveling twice
