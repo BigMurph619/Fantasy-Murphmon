@@ -36,3 +36,7 @@ This is a friendly community competition that takes the concept of fantasy footb
 > BB Memoriam - BB faints in service of Brock win
 
 > Safari Pivot - "Locked in" after leveling twice
+
+## LINKS
+[Murphmon Rules](https://takejoshyy.github.io/TheMurphVerse/#core-games-rules)
+[Discord](https://discord.gg/z2SqRbNr)
