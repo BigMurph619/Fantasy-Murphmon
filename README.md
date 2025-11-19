@@ -14,7 +14,7 @@ This is a friendly community competition that takes the concept of fantasy footb
 |-|
 |Points are accrued from all Murphmon Seeds ran in the month of December on Murph's stream|
 |All 6 of your Pokemon can earn you points throughout the month (no byes, no trades, no free agents)|
-|There will be an individual winner and a squad winner. Prizes TBD|
+|There will be an individual winner and a squad winner. Murph will donate $25 to the winning squad's charity of choice as well as $25 to the individual winner's charity of choice and give VIP.|
 
 |SCORING|POINTS|
 |-|-|
@@ -27,7 +27,7 @@ This is a friendly community competition that takes the concept of fantasy footb
 |BrockBuddy Memoriam| 2 |
 |Each Gym Leader/E4| 5 |
 |Champ| 10 |
-|Safari Choice| 3 |
+|Safari Option (Caught and looked at)| 3 |
 |Safari Pivot| 5 |
 |Shiny| 5 |
 
