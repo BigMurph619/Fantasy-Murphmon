@@ -5,7 +5,7 @@ This is a friendly community competition that takes the concept of fantasy footb
 
 |DRAFT|
 |-|
-|A draft will be held on Nov. 24th in Murph's Stream.|
+|A draft will be held on Nov. 24th 2 PM PST in Murph's Stream.|
 |10 Members of the Big Squad and 10 members of the Luck Squad|
 |Random, alternating order (between big and luck squad members). Snake style draft.|
 |Draft is 6 rounds and you may NOT repeat any typings in your individual draft.|
