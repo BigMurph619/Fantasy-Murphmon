@@ -15,6 +15,7 @@ This is a friendly community competition that takes the concept of fantasy footb
 |Points are accrued from all Murphmon Seeds ran in the month of December on Murph's stream|
 |All 6 of your Pokemon can earn you points throughout the month (no byes, no trades, no free agents)|
 |There will be an individual winner and a squad winner. Murph will donate $25 to the winning squad's charity of choice as well as $25 to the individual winner's charity of choice and give VIP.|
+|Each team will have the rights to choose 1 favorite, the 3rd favorite will be determined by the most recent sub gifter.|
 
 |SCORING|POINTS|
 |-|-|
