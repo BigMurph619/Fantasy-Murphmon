@@ -29,7 +29,7 @@ This is a friendly community competition that takes the concept of fantasy footb
 |Each Gym Leader/E4| 5 |
 |Champ| 10 |
 |Safari Option (Caught and looked at)| 3 |
-|Safari Pivot| 5 |
+|Safari Pivot(Leveled up twice)| 5 |
 |Shiny| 5 |
 
 > Progress - 0.1 points per trainer defeated in seed
